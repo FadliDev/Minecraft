@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8CD5AD</color>
+    <color name="on_primary">#00391F</color>
+
+    <color name="secondary">#B3CCBB</color>
+    <color name="on_secondary">#1E352A</color>
+
+    <color name="primary_container">#005233</color>
+    <color name="on_primary_container">#A8F2C8</color>
+
+    <color name="tertiary">#A3CDDC</color>
+    <color name="on_tertiary">#043542</color>
+    <color name="external_mod_ad">#FFB74D</color>
+
+    <color name="error">#FFB4AB</color>
+    <color name="on_error">#690005</color>
+
+    <color name="background">#0F1511</color>
+    <color name="surface">#1B211D</color>
+    <color name="surface_variant">#252B27</color>
+    <color name="on_background">#DEE4DD</color>
+    <color name="on_surface">#DEE4DD</color>
+
+    <color name="outline">#8A938C</color>
+    <color name="divider">#404943</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="scrim">#99000000</color>
+
+    <color name="glow_green">#4AE0A0</color>
+    <color name="glow_cyan">#00FFFF</color>
+
+    <color name="abi_label_text">#DEE4DD</color>
+    <color name="accent_text">#8CD5AD</color>
+
+    <color name="text_primary">#DEE4DD</color>
+    <color name="text_secondary">#BFC9C1</color>
+    <color name="qa_icon_color">#DEE4DD</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- View nav yang sudah dihapus dari nav_bar.xml tapi masih dirujuk (dengan null-check) oleh BaseActivity. -->
+    <item name="nav_account_avatar" type="id" />
+    <item name="nav_account_avatar_container" type="id" />
+    <item name="nav_avatar_progress" type="id" />
+    <item name="nav_news_badge" type="id" />
+    <item name="nav_news_container" type="id" />
+    <item name="nav_sign_in_button" type="id" />
+</resources>
